@@ -1,0 +1,23 @@
+img{
+	height: 150px;
+}
+
+.table{
+	table-layout: fixed;
+}
+#search {
+	float: right;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	width: 100px;
+	text-align: center;
+}
+
+.table > tbody > tr > td{
+	vertical-align: middle;
+}

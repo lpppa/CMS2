@@ -1,0 +1,62 @@
+.article_box{
+	margin-left: 10%;
+	width: 80%;
+}
+.article_title{
+	height: 80px;
+	line-height: 80px;
+	background-color: rgba(175,238,238,0.5);
+	text-align: center;
+	position: relative;
+	font-size: 3em;
+}
+
+.artile_info{
+	height: 40px;
+	line-height: 40px;
+	text-align: right;
+	position: relative;
+}
+
+#article_writer{
+	position: absolute;
+	right: 25%;
+}
+#create_time{
+	position: absolute;
+	right: 5%;
+}
+
+.article_content{
+	background-color: rgba(175,238,238,0.5);
+	/*height: 1000px;*/
+}
+
+#article_content{
+	padding: 5%;
+	/*height: 800px;*/
+}
+
+.artile_bottom{
+	background-color: rgba(175,238,238,0.5);
+	height: 50px;
+	line-height: 50px;
+	text-align: right;
+	position: relative;
+}
+#hit_like{
+	color: red;
+	font-size: 15px;
+	position: absolute;
+	right: 15%;
+}
+#hit_report{
+	color: black;
+	font-size: 15px;
+	position: absolute;
+	right: 5%;
+}
+li{
+	list-style: none;
+	
+}

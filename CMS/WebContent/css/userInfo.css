@@ -1,0 +1,104 @@
+.top{
+	width: 100%;
+	height: 300px;
+	background-image: url(../img/11.jpg);
+	margin-top: 20px;
+}
+.avatar{
+	height: 50%;
+	text-align: center;
+}
+
+.avatar_img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	margin-top: 50px;
+}
+
+.userName{
+	margin-top: 10px;
+	color: white;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.userInfo_nav{
+	width: 100%;
+	height: 58px;
+	background-color: white;
+	text-align: center;
+	line-height: 58px;
+	border: 1px solid gainsboro;
+}
+
+.page_link{
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-left: 5%;
+	text-decoration: none;
+	padding-bottom: 10px;
+}
+
+.page_link:hover{
+	color: #000000;
+	text-decoration: none;
+	border-bottom: 5px solid #31B0D5;
+}
+
+#userInfo_body{
+	background-color: rgba(175,238,238,0.5);
+}
+
+.userInfo_box{
+	margin-top: 30px;
+}
+
+.userInfo_content{
+	padding: 100px;
+	background-color: white;
+	border: 1px solid gainsboro;
+}
+
+.title_box{
+	position: relative;
+	height: 40px;
+	margin-bottom: 60px;
+}
+
+.info_title{
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.info_edit{
+	position: absolute;
+	right: 0;
+	top: 10px;
+	font-size: 1.5em;
+}
+
+.info_all{
+	
+	border: 1px solid #808080;
+}
+
+.info_single{
+	position: relative;
+	line-height: 70px;
+	font-size: 1.7em;
+}
+
+.single_key{
+	color: #808080;
+	width: 15%;
+	display: inline-block;
+	text-align: right;
+	margin-right: 60px;
+}
+
+.single_value{
+	width: 70%;
+	display: inline-block;
+}

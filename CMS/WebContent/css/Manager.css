@@ -1,0 +1,26 @@
+.table {
+	table-layout: fixed;
+}
+
+#search {
+	float: right;
+}
+
+th {
+	width: 100px;
+	text-align: center;
+}
+
+td {
+	width: 100px;
+	text-align: center;
+}
+
+.table > tbody > tr > td {
+	vertical-align: middle;
+}
+
+.btn-sm {
+	padding: 5px 15px;
+	font-size: 11px;
+}

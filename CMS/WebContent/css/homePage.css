@@ -1,0 +1,126 @@
+.homePage_nav{
+	height: 70px;
+	line-height: 70px;
+	background-color: rgba(175,238,238,0.5);
+}
+
+.nav_logo{
+
+}
+
+.homePage_search{
+	height: 40px;
+	margin-bottom: 15px;
+}
+
+.nav_zhuye{
+	margin-right: 30px;
+	font-size: 2em;
+}
+
+.nav_login{
+	font-size: 2em;
+}
+
+.page_content{
+	margin-top: 22px;
+}
+.btn_blue{
+	background-color: #5BC0DE;
+	color: white;
+}
+.content_list .btn{
+	border: none;
+	border-radius: 20px !important;
+	font-size: 2em;
+	on
+}
+.content_list .btn:hover{
+	background-color: #5BC0DE;
+	color: white;
+}
+
+.content_carofusel{
+	height: 300px;
+	background-color: rgba(175,238,238,0.5);
+}
+.guanggao{
+	/*padding-right: 50px;*/
+	margin-bottom: 20px;
+	height: 300px;
+	background-color: rgba(175,238,238,0.5);
+}
+
+.nav_center{
+	position: relative;
+}
+.search_form{
+	position: absolute;
+	margin-top: 5px;
+	padding-right: 15px;
+	display: inline-block;
+	right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------------------------------------------------------------*/
+.articleBox{
+	width: 100%;
+}
+.articlePiece{
+	margin: 20px;
+}
+.articlePicture{
+	width: 10%;
+	float: left;
+}
+
+.picture{
+	width: 100%;
+	height: 70px;
+}
+.articleContent{
+	width: 90%;
+	float: left;
+	padding: 10px;
+}
+
+.articleText{
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.articleInfo{
+	position: relative;
+}
+.userPicture{
+	width: 18px;
+	height: 18px;
+}
+.userName{
+	padding-right: 10px;
+}
+.rightShift{
+	float: right;
+}
+.hits,.reportNumber{
+	border-left: 1px solid black;
+	padding-left: 10px;
+}
+.likeNumber,.reportNumber{
+	padding-right: 10px;
+}
+
+
+

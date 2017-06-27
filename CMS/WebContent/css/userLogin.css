@@ -1,0 +1,18 @@
+#welcome{
+	text-align: center;
+	padding-bottom: 5%;
+	font-family:"楷体";
+	font-size: 3em;
+}
+#register{
+	text-decoration: none;
+	color: white;
+}
+.sbj{
+	padding-top: 10%;
+}
+#body{
+	/*background: -webkit-radial-gradient(paleturquoise,white);*/
+	background-color: rgba(175,238,238,0.5);
+}
+
